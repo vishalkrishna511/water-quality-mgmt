@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757312770524",
+    "project_id": "iot-cauvery",
+    "storage_bucket": "iot-cauvery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757312770524:android:b347f6bded993f6348ff19",
+        "android_client_info": {
+          "package_name": "com.example.water_quality_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757312770524-mcjkvpbn9uct417rn787ja4i45qe27kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEIE71xud7sLyMLZSo6hCdehMXV5uL7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757312770524-mcjkvpbn9uct417rn787ja4i45qe27kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
